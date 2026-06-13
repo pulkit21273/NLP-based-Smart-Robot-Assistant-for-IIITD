@@ -25,7 +25,6 @@ A resource-efficient AI assistant designed for academic and administrative query
 
 <img width="361" height="594" alt="Image" src="https://github.com/user-attachments/assets/9ae79bb4-cd6c-4c46-9dc7-4f42c9dcd71c" />
 <img width="353" height="557" alt="Image" src="https://github.com/user-attachments/assets/1f044cc3-0499-4873-ba6a-e258ffe014ad" />
-<img width="223" height="358" alt="Image" src="https://github.com/user-attachments/assets/5c1725c0-da78-4678-8572-b8b3fff3ccc6" />
 
 ---
 
